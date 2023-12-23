@@ -1,0 +1,8 @@
+.heading{
+    display: flex;
+    gap: 100px;
+}
+
+.h4{
+    margin: 8px 0;
+}

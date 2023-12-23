@@ -1,0 +1,11 @@
+.grid-container {
+    text-align: left;
+    width: 350px;
+    display: grid;
+    grid-template-columns: 90px 1fr;
+  }
+
+  .grid-item{
+    text-align: left;
+  }
+  
